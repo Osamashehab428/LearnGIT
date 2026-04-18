@@ -1,2 +1,3 @@
 
-JavaScript is a programming language
+JavaScript is a programming language. You can learn it on Youtube to make your webpages more interactive.
+
